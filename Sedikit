@@ -1,0 +1,65 @@
+{
+  "Apps": [
+    {
+      "id": "spotify-premium",
+      "name": "Spotify Premium",
+      "category": "Music",
+      "icon": "https://images.example.com/spotify-premium.png",  ← EKSTERNAL LINK
+      "rating": "4.8",
+      "size": "85 MB",
+      "version": "9.0.0",
+      "description": "Spotify Premium dengan semua fitur premium. Nikmati musik tanpa batas tanpa iklan.",
+      "features": [
+        "✓ Premium Unlocked",
+        "✓ No Ads",
+        "✓ Unlimited Skip",
+        "✓ Offline Download",
+        "✓ High Audio Quality"
+      ],
+      "screenshot": "https://images.example.com/spotify-screenshot.jpg",
+      "download_url": "https://github.com/username/spotify-mods/releases/download/v9.0.0/spotify-premium.apk",
+      "download_button_text": "DOWNLOAD APK"
+    },
+    
+    {
+      "id": "youtube-vanced",
+      "name": "YouTube Vanced",
+      "category": "Video",
+      "icon": "https://images.example.com/youtube-vanced.png",  ← EKSTERNAL LINK
+      "rating": "4.9",
+      "size": "120 MB",
+      "version": "18.20.34",
+      "description": "YouTube Vanced dengan dark theme dan adblocker built-in.",
+      "features": [
+        "✓ Ad-Free Experience",
+        "✓ Dark Theme",
+        "✓ Sponsor Block",
+        "✓ Return Dislike Count",
+        "✓ Custom Background"
+      ],
+      "screenshot": "https://images.example.com/youtube-screenshot.jpg",
+      "download_url": "https://github.com/username/youtube-mods/releases/download/v18.20.34/youtube-vanced.apk",
+      "download_button_text": "DOWNLOAD APK"
+    },
+    
+    {
+      "id": "instagram-plus",
+      "name": "Instagram Plus",
+      "category": "Social",
+      "icon": "https://images.example.com/instagram-plus.png",  ← EKSTERNAL LINK
+      "rating": "4.6",
+      "size": "95 MB",
+      "version": "320.0.0.0.0",
+      "description": "Instagram dengan fitur download dan dark mode premium.",
+      "features": [
+        "✓ Download Photos & Videos",
+        "✓ Dark Mode",
+        "✓ Story Saver",
+        "✓ No Ads"
+      ],
+      "screenshot": "https://images.example.com/instagram-plus.png",
+      "download_url": "https://github.com/username/instagram-mods/releases/download/v320.0/instagram-plus.apk",
+      "download_button_text": "DOWNLOAD APK"
+    }
+  ]
+}
