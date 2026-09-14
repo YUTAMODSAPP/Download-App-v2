@@ -4,7 +4,7 @@
       "id": "spotify-premium",
       "name": "Spotify Premium",
       "category": "Music",
-      "icon": "https://images.example.com/spotify-premium.png",  ← EKSTERNAL LINK
+      "icon": "https://images.example.com/spotify-premium.png",
       "rating": "4.8",
       "size": "85 MB",
       "version": "9.0.0",
@@ -20,12 +20,11 @@
       "download_url": "https://github.com/username/spotify-mods/releases/download/v9.0.0/spotify-premium.apk",
       "download_button_text": "DOWNLOAD APK"
     },
-    
     {
       "id": "youtube-vanced",
       "name": "YouTube Vanced",
       "category": "Video",
-      "icon": "https://images.example.com/youtube-vanced.png",  ← EKSTERNAL LINK
+      "icon": "https://images.example.com/youtube-vanced.png",
       "rating": "4.9",
       "size": "120 MB",
       "version": "18.20.34",
@@ -41,12 +40,11 @@
       "download_url": "https://github.com/username/youtube-mods/releases/download/v18.20.34/youtube-vanced.apk",
       "download_button_text": "DOWNLOAD APK"
     },
-    
     {
       "id": "instagram-plus",
       "name": "Instagram Plus",
       "category": "Social",
-      "icon": "https://images.example.com/instagram-plus.png",  ← EKSTERNAL LINK
+      "icon": "https://images.example.com/instagram-plus.png",
       "rating": "4.6",
       "size": "95 MB",
       "version": "320.0.0.0.0",
