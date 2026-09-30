@@ -21,6 +21,27 @@
       "download_button_text": "DOWNLOAD APK"
     },
     {
+      "id": "free-fire Max",
+      "name": "free fire",
+      "category": "game",
+      "icon": "https://images.example.com/youtube-vanced.png",
+      "rating": "4.9",
+      "size": "120 MB",
+      "version": "18.20.34",
+      "description": " Ep ep dengan dark theme dan adblocker built-in.",
+      "features": [
+        "✓ Ad-Free Experience",
+        "✓ Dark Theme",
+        "✓ Sponsor Block",
+        "✓ Return Dislike Count",
+        "✓ Custom Background"
+      ],
+      "screenshot": "https://images.example.com/youtube-screenshot.jpg",
+      "download_url": "https://github.com/username/youtube-mods/releases/download/v18.20.34/youtube-vanced.apk",
+      "download_button_text": "DOWNLOAD APK"
+    },
+
+    {
       "id": "youtube-vanced",
       "name": "YouTube Vanced",
       "category": "Video",
