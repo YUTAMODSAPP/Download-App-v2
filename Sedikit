@@ -4,7 +4,7 @@
       "id": "spotify-premium",
       "name": "Spotify Premium",
       "category": "Music",
-      "icon": "https://images.example.com/spotify-premium.png",
+      "icon": "https://ibb.co.com/Cp5Jbd24",
       "rating": "4.8",
       "size": "85 MB",
       "version": "9.0.0",
@@ -16,7 +16,7 @@
         "✓ Offline Download",
         "✓ High Audio Quality"
       ],
-      "screenshot": "https://images.example.com/spotify-screenshot.jpg",
+      "screenshot": "https://ibb.co.com/Cp5Jbd24",
       "download_url": "https://github.com/username/spotify-mods/releases/download/v9.0.0/spotify-premium.apk",
       "download_button_text": "DOWNLOAD APK"
     },
