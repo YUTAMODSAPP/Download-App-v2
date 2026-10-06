@@ -1,20 +1,20 @@
 {
   "Apps": [
     {
-      "id": "spotify-premium",
-      "name": "Spotify Premium",
-      "category": "Music",
-      "icon": "https://ibb.co.com/Cp5Jbd24",
+      "id": "Trebedit-Premium",
+      "name": "Trebedit Premium",
+      "category": "Tols",
+      "icon": "https://i.ibb.co.com/RTjTNhLX/Screenshot-20261001-162353.jpg",
       "rating": "4.8",
-      "size": "85 MB",
-      "version": "9.0.0",
+      "size": "13 MB",
+      "version": "Terbaru",
       "description": "Spotify Premium dengan semua fitur premium. Nikmati musik tanpa batas tanpa iklan.",
       "features": [
         "✓ Premium Unlocked",
         "✓ No Ads",
-        "✓ Unlimited Skip",
-        "✓ Offline Download",
-        "✓ High Audio Quality"
+        "✓ Unlimited Testing",
+        "✓ Membuka layar penuh",
+        "✓ Saran font anlock"
       ],
       "screenshot": "https://ibb.co.com/Cp5Jbd24",
       "download_url": "https://github.com/username/spotify-mods/releases/download/v9.0.0/spotify-premium.apk",
